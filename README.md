@@ -1,2 +1,2 @@
-# PhotosPage
-Photography test page
+# Photos Page
+Responsive page test
